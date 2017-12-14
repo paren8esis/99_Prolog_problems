@@ -1,4 +1,4 @@
-#My solutions for the 99 Prolog problems
+# My solutions for the 99 Prolog problems
 
 Some solutions for the [99 Prolog problems](https://sites.google.com/site/prologsite/prolog-problems), written in SWI-Prolog (version 6.6.6).
 
